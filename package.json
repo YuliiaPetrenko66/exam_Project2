@@ -1,0 +1,28 @@
+{
+  "name": "examproject2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000x\u0000a\u0000m\u0000_\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npx json-server-auth http://jsonplaceholder.typicode.com/db -p 4003"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliiaPetrenko66/exam_Project2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliiaPetrenko66/exam_Project2/issues"
+  },
+  "homepage": "https://github.com/YuliiaPetrenko66/exam_Project2#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.3",
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
+  },
+  "dependencies": {}
+}
